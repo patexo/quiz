@@ -7,7 +7,7 @@
 	<body>
 		
 		
-		<%= respuesta %> <p>
+		<br/><%= respuesta %> <p>
 		<a href="/quizes/question"> Inténtelo otra vez </a>
 	</body>
 </html>
