@@ -26,6 +26,7 @@
     "ejs": "~0.8.5",
     "express-partials": "~0.3.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "sequelize": "~2.0.0",
     "pg": "~4.1.1",
     "pg-hstore": "~2.3.2",
@@ -36,5 +37,12 @@
     "pg": "~4.1.1",
     "pg-hstore": "~2.3.2"
 >>>>>>> 67efb9447b10474a9e277f4634578f2406b4a10a
+=======
+    "sequelize": "~1.7.11",
+    "pg": "~4.1.1",
+    "pg-hstore": "~2.3.2",
+    "method-override": "~2.3.1",
+    "express-session": "~1.11.3"
+>>>>>>> busquedas
   }
 }
